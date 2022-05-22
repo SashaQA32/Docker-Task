@@ -7,6 +7,6 @@ services:
     volumes:
       - ./data:/var/lib/postgresql
     environment:
-      - POSTGRESQL_DB=db
-      - POSTGRESQL_USER=sashaqa32
-      - POSTGRESQL_PASSWORD=F3}Yo{VA
+      - POSTGRES_DB=db
+      - POSTGRES_USER=sashaqa32
+      - POSTGRES_PASSWORD=p3Nb1SqXG
